@@ -1,2 +1,2 @@
 # localreposit
-localreposit update
+ localreposit
